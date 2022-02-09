@@ -1,7 +1,5 @@
 # Forward Frontend Interview Assignment
 
----
-
 ## Overview
 
 The assignment's purpose is to test the candidates abilty to develop a web applcation by following the provided design and how code were written will also be considered.
