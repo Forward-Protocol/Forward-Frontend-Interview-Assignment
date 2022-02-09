@@ -12,7 +12,7 @@ There will be 7 days timeframe to finish the assignment, once it finish send me 
 
 ## Requirement
 
-The candidates wil be required to used the following frameworks:
+The project wil be required to used the following frameworks:
 
 - React
 - TypeScirpt
@@ -22,6 +22,8 @@ Follow the design in Figma:
 [Link to Figma](https://www.figma.com/file/mWAkTDABZSqC0Zynyh4alA/Forward-Frontend-Interview-Assignment?node-id=6%3A170)
 
 _Note: Except the above requirement, Feel free to use any tools and libraries
+
+## Task
 
 ### 1. Sortable Table
 
