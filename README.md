@@ -14,7 +14,6 @@ The project wil be required to used the following frameworks:
 
 - React
 - TypeScirpt
-- SCSS
 
 Follow the design in Figma:
 [Link to Figma](https://www.figma.com/file/mWAkTDABZSqC0Zynyh4alA/Forward-Frontend-Interview-Assignment?node-id=6%3A170)
@@ -28,7 +27,7 @@ _Note: Except the above requirement, Feel free to use any tools and libraries
 - [ ] Connect API to fetch data and display on the table [API](https://testnet.forward-hq.ml/api/coins/)
 - [ ] Sortable table: using table header to select between ascending and descending order.
 - [ ] Filter/Search function for table
-- [ ] Favourite feature: the favourite need to be saved.
+- [ ] Favourite feature: the favourite need to be saved(local storage).
 
 _Note: Please keep preformance in mind
 
@@ -46,9 +45,9 @@ The candidates must use the BSC testnet for this task.
 
 &nbsp; Using the contract to Deposit/Withdraw and also display APR and deposited balance.
 
-- [ ] Deposit function (BNB)
-- [ ] Withdraw function (BNB)
-- [ ] Display deposited balance
+- [ ] Deposit function (BNB) (use function ```mintWithEther``` in smart contract)
+- [ ] Withdraw function (BNB) (use function ```burnToEther``` in smart contract)
+- [ ] Display deposited balance (read from function ```balanceOf```)
 - [ ] Display APR
 - [ ] Deposit/Withdraw using WBNB
 
